@@ -1,0 +1,10 @@
+C:\Projects\test123\bin\Debug\HellNo.exe.config
+C:\Projects\test123\bin\Debug\HellNo.exe
+C:\Projects\test123\bin\Debug\HellNo.pdb
+C:\Projects\test123\obj\Debug\HellNo.csprojAssemblyReference.cache
+C:\Projects\test123\obj\Debug\HellNo.Form1.resources
+C:\Projects\test123\obj\Debug\HellNo.Properties.Resources.resources
+C:\Projects\test123\obj\Debug\HellNo.csproj.GenerateResource.cache
+C:\Projects\test123\obj\Debug\HellNo.csproj.CoreCompileInputs.cache
+C:\Projects\test123\obj\Debug\HellNo.exe
+C:\Projects\test123\obj\Debug\HellNo.pdb
